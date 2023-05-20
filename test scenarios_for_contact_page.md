@@ -6,7 +6,7 @@ This file outlines a test scenario that we need to implement in automated e2e te
 
 ## Test
 
-### Navigate to Contact page and Bermuda office address
+### Navigate to Contact page and validate Bermuda office address and contact
 1. Click on menu button
 2. Click on "Contact" link
 3. From "Bermuda office" section, validate Bermuda location is Pembroke
