@@ -12,7 +12,7 @@ This file outlines a test scenario that we need to implement in automated e2e te
 
 ## Tests
 
-### Search for "IFRS 17" and validate result in drop down menu
+### Search for "IFRS 17" and validate the results from the drop down menu
 
 Note: I've attempted to automate this test but the test kept failing due to cant get to click on search button to open search bar.
 
@@ -22,7 +22,7 @@ Note: I've attempted to automate this test but the test kept failing due to cant
 4. Validate "Gavin Wilkinson" is displayed in drop down menu
 5. Validate "John King" is displayed in drop down menu
 
-### Search for "IFRS 17" and validate result in search result page
+### Search for "IFRS 17" and validate the results for the search result page
 
 1. Click on search button
 2. Validate 3 result returned in search result page
